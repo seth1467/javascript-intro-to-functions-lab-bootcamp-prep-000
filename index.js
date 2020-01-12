@@ -19,7 +19,3 @@ function sayHiToGrandma(string) {
   if ("string" === "hello".toLowerCase()){}
 }
 
-function sayHiToGrandma(string) {
-  return "YES INDEED!"
-  if ("string" === "I can't hear you!".toUpperCase()){}
-}
