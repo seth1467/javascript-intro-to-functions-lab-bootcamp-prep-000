@@ -21,5 +21,5 @@ function sayHiToGrandma(string) {
 
 function sayHiToGrandma(string) {
   return "YES INDEED!"
-  if ("string" === "HELLO".toLowerCase()){}
+  if ("I Can't Hear You!" === "YES INDEED!".toLowerCase()){}
 }
